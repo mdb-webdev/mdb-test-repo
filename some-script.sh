@@ -1,5 +1,8 @@
 #!/bin/sh
 #
+#   : : : EDITED SOME-SCRIPT : : :
+#   - - - part of the first-branch ||| second commit. - - -
+#
 # An example shell script to commit
 #
 # Lorem ipsum dolor blah blah yada.
@@ -11,7 +14,7 @@
 
 echo " "
 echo "-----------------------------------------------------------"
-echo "hello"
+echo "     EDITED some-script.sh : : : FIRST-BRANCH ||| second commit"
 echo "-----------------------------------------------------------"
 echo " "
 echo "           ~ LISTING ALL FILES AND DIRECTORIES: ~"
