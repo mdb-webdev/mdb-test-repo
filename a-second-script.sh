@@ -11,7 +11,7 @@ echo " ---------------------"
 echo " ---------------------"
 echo "a-second-script.sh"
 echo " "
-echo "    { first branch - third commit }"
+echo "    { 4th branch - first commit }"
 echo " ---------------------"
 echo " ---------------------"
 

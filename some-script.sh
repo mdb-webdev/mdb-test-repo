@@ -14,7 +14,7 @@
 
 echo " "
 echo "-----------------------------------------------------------"
-echo "     EDITED some-script.sh : : : FIRST-BRANCH ||| second commit"
+echo "     EDITED some-script.sh : : : 4th-BRANCH ||| first commit"
 echo "-----------------------------------------------------------"
 echo " "
 echo "           ~ LISTING ALL FILES AND DIRECTORIES: ~"
